@@ -3,7 +3,7 @@ Eine kleine grafische Benutzeroberfläche für das New Packet Radio Modem vom F4
 
 A little graphical user interface for the New Packet Radio Modem from F4HDK
 
-![alt NPRM-gui](https://raw.githubusercontent.com/pcbx/NPRM-gui/master/20191117_Screenshot.png)
+<img align="right" width="480" src="https://raw.githubusercontent.com/pcbx/NPRM-gui/master/20191117_Screenshot.png">
 
 Deutsch:
 
