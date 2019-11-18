@@ -1,4 +1,6 @@
 # NPRM-gui
+(currently supported firmware: 2019_09_15)
+
 Eine kleine grafische Benutzeroberfläche für das New Packet Radio Modem vom F4HDK
 
 A little graphical user interface for the New Packet Radio Modem from F4HDK
