@@ -1,12 +1,15 @@
 # NPRM-gui
 (currently supported firmware: 2019_09_15)
+
 <a href="https://github.com/cbrueck/nprm-gui">NPRM-GUI on Github.com</a>
 
 Eine kleine grafische Benutzeroberfläche für das New Packet Radio Modem vom F4HDK
 
 A little graphical user interface for the New Packet Radio Modem from F4HDK
 
-<img align="right" width="480" src="https://raw.githubusercontent.com/pcbx/nprm-gui/master/20191118.png">
+<img width="480" src="https://raw.githubusercontent.com/cbrueck/nprm-gui/master/nprm_img.jpg">
+                                                                                                          
+<img width="480" src="https://raw.githubusercontent.com/pcbx/nprm-gui/master/20191118.png">
 
 Deutsch:
 
