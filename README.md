@@ -3,7 +3,7 @@
 
 <a href="https://github.com/cbrueck/nprm-gui">->NPRM-GUI on Github.com</a>
 
-<a href="https://github.com/cbrueck/nprm-gui/blob/master/NPRM-gui.py">->Download NPRM-GUI.py</a>
+<a href="https://github.com/cbrueck/nprm-gui/raw/master/NPRM-gui.py">->Download NPRM-GUI.py</a>
 
 
 Eine kleine grafische Benutzeroberfläche für das New Packet Radio Modem von F4HDK
