@@ -5,6 +5,8 @@
 
 <a href="https://github.com/cbrueck/nprm-gui/raw/master/NPRM-gui.py">->Download NPRM-GUI.py</a>
 
+Sofern die GUI relativ stabil läuft ist auch ein Download als Windows EXE-Datei und Linux BIN-Datei geplant. Beides wird dann mit Hilfe von pyinstaller erstellt.
+
 
 Eine kleine grafische Benutzeroberfläche für das New Packet Radio Modem von F4HDK
 
