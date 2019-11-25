@@ -4,7 +4,7 @@
 
 Update (25.11.2019):
 
-(I'm working on the GUI for the latest firmware version 2019_10_20 with the new feature of autodetection for the USB connection.)
+I'm working on the GUI for the latest firmware version 2019_10_20 with the new feature of autodetection for the USB connection.
 
 
 <a href="https://github.com/cbrueck/nprm-gui">->NPRM-GUI on Github.com</a>
