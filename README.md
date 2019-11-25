@@ -1,6 +1,9 @@
 # NPRM-gui
 (currently supported firmware: 2019_09_15)
 
+
+Update (25.11.2019):
+
 (I'm working on the GUI for the latest firmware version 2019_10_20 with the new feature of autodetection for the USB connection.)
 
 
