@@ -3,7 +3,7 @@
 
 Update (2020-01-04):
 
-The new NPRM-gui python script is online. It's an experimantal Version! (not fully tested yet). USB-Connection should be automatically detected in this Version. Still no support for telnet connections in the script.
+The new NPRM-gui python script is online. It's an experimantal Version! (not fully tested yet). USB-Connection should be automatically detected in this version. Still no support for telnet connections in the script.
 
 
 Update (2020-01-03):
