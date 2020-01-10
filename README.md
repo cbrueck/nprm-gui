@@ -1,6 +1,10 @@
 # NPRM-gui
 (currently supported firmware: 2019_10_20)
 
+Update (2020-01-10):
+
+I'm working on telnet-connection support for the GUI...
+
 Update (2020-01-04):
 
 The new NPRM-gui python script is online. It's an experimantal Version! (not fully tested yet). USB-Connection should be automatically detected in this version. Still no support for telnet connections in the script.
