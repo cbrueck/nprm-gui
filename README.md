@@ -1,6 +1,8 @@
 # NPRM-gui
 (currently supported firmware: 2019_10_20)
 
+<a href="https://github.com/cbrueck/nprm-gui/blob/master/NPRM-gui_2020-01-04.py">->Download NPRM-GUI.py</a>
+
 Update (2020-01-10):
 
 I'm working on telnet-connection support for the GUI...
@@ -14,10 +16,6 @@ Update (2020-01-03):
 
 I'm working on the GUI for the latest firmware version 2019_10_20 with the new feature of autodetection for the USB connection.
 
-
-<a href="https://github.com/cbrueck/nprm-gui">->NPRM-GUI on Github.com</a>
-
-<a href="https://github.com/cbrueck/nprm-gui/blob/master/NPRM-gui_2020-01-04.py">->Download NPRM-GUI.py</a>
 
 Sofern die GUI relativ stabil läuft ist auch ein Download als Windows EXE-Datei und Linux BIN-Datei geplant. Beides wird dann mit Hilfe von pyinstaller erstellt.
 
